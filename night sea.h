@@ -1,8 +1,8 @@
 void nightSea()
 {
         glPushMatrix();
-    glTranslatef(0.0f,0.0f,0.0f);
-     glScalef(1.6f,1.6f,1.6f);
+        glTranslatef(0.0f,0.0f,0.0f);
+        glScalef(1.6f,1.6f,1.6f);
 
 //b1
             glBegin(GL_TRIANGLE_FAN);
